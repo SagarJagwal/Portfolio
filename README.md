@@ -1,4 +1,4 @@
 # Personal Portfolio Website
-Belongs to: Rohan Sapkal
+Belongs to: Sagar Jagwal
 <br>
 Built using: HTML, CSS & JavaScript
